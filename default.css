@@ -414,6 +414,12 @@ h6 {
   }
 }
 
+@media screen and (max-width: 1200px) {
+  .main-container1 {
+    width: 95%;
+  }
+}
+
 @media screen and (max-width: 800px) {
   .intro-wrapper {
     grid-template-columns: 1fr;
